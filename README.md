@@ -17,6 +17,8 @@
 - [Discord](https://discord.com)
 - [Reddit](https://reddit.com)
 - [GeForce NOW](https://play.geforcenow.com/) (Partially Supported)
+- onlyfans
+  
 - Any static website
 - And more!
 
